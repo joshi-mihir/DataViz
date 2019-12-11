@@ -4,5 +4,6 @@ nbinteract
 pandas
 matplotlib
 bqplot
+calendar
 datetime
 squarify
