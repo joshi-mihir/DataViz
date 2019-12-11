@@ -11,3 +11,8 @@ git push origin master
 git config --global user.name "joshi-mihir"
 git push origin master
 exit
+nbinteract IS590DV_Final_Project_Final.ipynb
+git add -A
+git commit -m "Publish nb"
+git push origin master
+exit
