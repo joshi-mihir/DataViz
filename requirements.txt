@@ -1,0 +1,9 @@
+numpy
+ipywidgets
+nbinteract
+pandas
+matplotlib
+os
+bqplot
+datetime
+warnings
