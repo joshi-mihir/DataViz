@@ -1,0 +1,12 @@
+{
+  "shell_port": 35803,
+  "iopub_port": 55563,
+  "stdin_port": 33759,
+  "control_port": 42631,
+  "hb_port": 40329,
+  "ip": "127.0.0.1",
+  "key": "d3502c35-f8bf137aaf69b78a56c14cf7",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": ""
+}
